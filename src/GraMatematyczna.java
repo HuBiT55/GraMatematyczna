@@ -60,3 +60,4 @@ public class GraMatematyczna {
         System.out.println("Twój wynik: " + punkty + "/" + iloscPytan);
     }
 }
+
